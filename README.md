@@ -1,2 +1,1 @@
-# Likhavat
-Likhavat is a open source blog site alternative of Medium.
+A community-driven donation platform for bridging the gap between NGOs, donors and individuals.
